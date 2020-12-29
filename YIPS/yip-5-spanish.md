@@ -34,7 +34,7 @@ Para resumir: Si la propuesta #0 es aprobada, el modelo de distribución deberí
 | Propuesta por         | 0x5398850A9399Da87624874704FEAa8A9C6C4089B |
 | Votos totales a favor     | 1123689.4842 (69.84%)                      |
 | Votos totales en contra | 485164.6894 (30.15%)                       |
-| Quorum              | 6.19% 𐄂                                    |
+| Quorum              | 6.19% ✔                                    |
 | Bloque inicial         | 10496829                                   |
 | Bloque final           | 10514109                                   |
 
