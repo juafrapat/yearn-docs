@@ -32,7 +32,7 @@ Canalizar todo el CRV adquirido a un bloqueo de 4 años con derecho de voto y ha
 Foto instantánea de la encuesta del foro:
 - 80% Participar en la gobernanza de CRV y aumentar x2.5 veces la recompensa.
 - 12% Distribuirlo al tesoro de YFI y a los holders.
--8% Distribuirlo a los LPs (proveedores de liquidez) de yVaults.
+- 8% Distribuirlo a los LPs (proveedores de liquidez) de yVaults.
 
 ### Especificación técnica
 
