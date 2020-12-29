@@ -72,23 +72,23 @@ Las imágenes deben incluirse en el subdirectorio de la carpeta `assets` para ca
 
 Cada YIP debe empezar con un estilo de preámbulo del header [RFC 822](https://www.ietf.org/rfc/rfc822.txt), precedido y seguido por tres guiones (`---`). Este header también se conoce como ["front matter" by Jekyll](https://jekyllrb.com/docs/front-matter/). Los headers deben aparecer en el siguiente orden. Headers marcados con "*" son opcionales y se describen más abajo. Todos los demás headers son necesarios.
 
-` yip:` <YIP number> (Esto es determinado por el editor de la YIP)
+` yip:` < YIP number > (Esto es determinado por el editor de la YIP)
 
-` Título:` <YIP title>
+` Título:` < YIP title >
 
-` Autor:` <Una lista con el nombre(s) del autor(es) o su(s) nombre(s) de usuario(s) o nombre(s) y email(s). Los detalles están más abajo.>
+` Autor:` < Una lista con el nombre(s) del autor(es) o su(s) nombre(s) de usuario(s) o nombre(s) y email(s). Los detalles están más abajo. >
 
-` * Discusiones en:` \<Una url que dirija al hilo oficial en gov.yearn.finance\>
+` * Discusiones en:` \< Una url que dirija al hilo oficial en gov.yearn.finance \>
 
 ` Estado:` < WIP | PROPUESTA | APROBADA | IMPLEMENTADA >
 
-` Creada:` <Fecha de creación>
+` Creada:` < Fecha de creación >
 
-` * Actualizada:` <Lista de fechas separadas por comas>
+` * Actualizada:` < Lista de fechas separadas por comas >
 
-` * Requiere:` <Numero(s) de YIP>
+` * Requiere:` < Numero(s) de YIP >
 
-` * Resolución:` \<Una url que dirija a la resolución de esta YIP\>
+` * Resolución:` \< Una url que dirija a la resolución de esta YIP \>
 
 Headers que permiten listas deben separar los elementos con comas.
 Headers que requieran fechas siempre se introducirán en el formato ISO 8601 (yyyy-mm-dd).
