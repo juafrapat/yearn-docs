@@ -78,7 +78,7 @@ Cada YIP debe empezar con un estilo de preámbulo del header [RFC 822](https://w
 
 ` Autor:` < Una lista con el nombre(s) del autor(es) o su(s) nombre(s) de usuario(s) o nombre(s) y email(s). Los detalles están más abajo. >
 
-` * Discusiones en:` \< Una url que dirija al hilo oficial en gov.yearn.finance \>
+` * Discusiones en:` < Una url que dirija al hilo oficial en gov.yearn.finance \>
 
 ` Estado:` < WIP | PROPUESTA | APROBADA | IMPLEMENTADA >
 
@@ -88,7 +88,7 @@ Cada YIP debe empezar con un estilo de preámbulo del header [RFC 822](https://w
 
 ` * Requiere:` < Numero(s) de YIP >
 
-` * Resolución:` \< Una url que dirija a la resolución de esta YIP \>
+` * Resolución:` < Una url que dirija a la resolución de esta YIP \>
 
 Headers que permiten listas deben separar los elementos con comas.
 Headers que requieran fechas siempre se introducirán en el formato ISO 8601 (yyyy-mm-dd).
