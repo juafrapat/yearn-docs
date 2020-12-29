@@ -6,7 +6,7 @@
 
 | Número | Título                           | Autor       |
 | ------ | -------------------------------- | ----------- |
-| 34     | Añadir Synthetix (SNX) a yVaults | Substreight |
+| [34](https://docs.yearn.finance/v/spanish/yips/yip-34-spanish)     | Añadir Synthetix (SNX) a yVaults | Substreight |
 |        |                                  |             |
 
 ### Implementadas
