@@ -174,7 +174,7 @@ El documento de las YIPs, en su mayoría, ha sido copiado y modificado inspirán
 
 ### Bibliografía
 
-[el Discord de yEarn no oficial]: https://discord.com/invite/3AGgWxy
+[el Discord de yEarn no oficial]: http://discord.yearn.finance
 [el canal de Telegram de yEarn no oficial]: https://t.me/yearnfinance
 [pull request]: https://github.com/iearn-finance/YIPS/pulls
 [markdown]: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
