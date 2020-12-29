@@ -36,7 +36,7 @@ Una de las mayores ventajas de yEarn es que no hubo preminado de YFI. No se acep
 | Propuesta por         | 0x09173487b272311Edda01F45f97911aEB6aBd602 |
 | Votos totales a favor     | 332839.5446 (99.69%)                       |
 | Votos totales en contra | 1005.9567 (0.30%)                          |
-| Quorum              | 3.06% 𐄂                                    |
+| Quorum              | 3.06% ✔                                    |
 | Bloque inicial         | 10525527                                   |
 | Bloque final           | 10542807                                   |
 
